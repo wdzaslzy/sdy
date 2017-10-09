@@ -1,2 +1,3 @@
-测试
+﻿测试
 Create a new branch is quick and simple.
+Git is a free software...
